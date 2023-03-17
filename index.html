@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pet project ideas</title>
-    <!-- Include DataTables CSS -->
     <link
       rel="stylesheet"
       type="text/css"
@@ -18,8 +17,15 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
     />
 
-    <!-- Include DataTables JavaScript -->
     <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 100vh;
+        margin: 0px;
+        padding: 10px 250px;
+      }
       .google-form-container {
         display: flex;
         align-items: center;
@@ -71,6 +77,12 @@
         width: 100%;
         height: 100%;
       }
+
+      .social-icon {
+        font-size: 2rem;
+        text-decoration: none;
+        color: black;
+      }
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -79,43 +91,61 @@
       src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"
     ></script>
     <script
-      async      
+      async
       src="https://api.countapi.xyz/hit/cleannetcode-Pet-Project-Ideas?callback=cb"
     ></script>
   </head>
   <body>
-    <div>
-      <span>Эту страницу посмотрели: </span>
-      <span id="visits">...</span>
-    </div>
-    <p>Сложность от 0 до 10, где 0 - FizzBuzz, а 10 - GPT-4</p>
-    <table id="projects" class="display" style="width: 100%">
-      <thead>
-        <tr>
-          <th>Название</th>
-          <th>Краткое описание</th>
-          <th>Сложность</th>
-          <th>Темы, что примерно нужно изучить</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-
-    <button class="collapsible">Show/Hide Google Form</button>
-    <div class="collapsed">
-      <div class="google-form-container">
-        <iframe
-          class="responsive-iframe"
-          src="https://docs.google.com/forms/d/e/1FAIpQLSda6xiWsTmsEf_5Hl1JV1l_uLawv_Ga1lYoTcreSzGxknMTOg/viewform?embedded=true"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
-          width="640"
-          height="1075"
-          >Loading…</iframe
-        >
+    <main>
+      <div>
+        <span>Эту страницу посмотрели: </span>
+        <span id="visits">...</span>
       </div>
-    </div>
+      <p>Сложность от 0 до 10, где 0 - FizzBuzz, а 10 - GPT-4</p>
+      <table id="projects" class="display" style="width: 100%">
+        <thead>
+          <tr>
+            <th>Название</th>
+            <th>Краткое описание</th>
+            <th>Сложность</th>
+            <th>Темы, что примерно нужно изучить</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <button class="collapsible">Show/Hide Google Form</button>
+      <div class="collapsed">
+        <div class="google-form-container">
+          <iframe
+            class="responsive-iframe"
+            src="https://docs.google.com/forms/d/e/1FAIpQLSda6xiWsTmsEf_5Hl1JV1l_uLawv_Ga1lYoTcreSzGxknMTOg/viewform?embedded=true"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+            width="640"
+            height="1075"
+            >Loading…</iframe
+          >
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div style="margin-top: 50px">
+        <a
+          href="https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas"
+          class="social-icon"
+        >
+          <i class="fa-brands fa-github social-icon"></i>
+        </a>
+        <a href="https://t.me/cleannetcode" class="social-icon">
+          <i class="fa-brands fa-telegram social-icon"></i>
+        </a>
+        <a href="https://www.youtube.com/@Cleannetcode" class="social-icon">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+      </div>
+    </footer>
     <script>
       $(document).ready(function () {
         // Load JSON data from the file
