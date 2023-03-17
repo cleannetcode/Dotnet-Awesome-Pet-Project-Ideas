@@ -1182,12 +1182,6 @@
         "Topics": "Программирование пользовательского интерфейса, логика игры"
     },
     {
-        "Name": "Snake Game",
-        "Description": "Игра \"Змейка\"",
-        "Difficulty": "3",
-        "Topics": "Программирование пользовательского интерфейса, логика игры"
-    },
-    {
         "Name": "FTP Client (+Server)",
         "Description": "FTP-клиент (+сервер)",
         "Difficulty": "5",
@@ -1204,12 +1198,6 @@
         "Description": "Интерпретатор IMP",
         "Difficulty": "4",
         "Topics": "Обработка текста, алгоритмы, компиляция/интерпретация"
-    },
-    {
-        "Name": "Tetris",
-        "Description": "Тетрис",
-        "Difficulty": "3",
-        "Topics": "Программирование пользовательского интерфейса, логика игры"
     },
     {
         "Name": "Conway's Game of Life (other cellular automata)",
@@ -1282,12 +1270,6 @@
         "Description": "Генератор случайных изображений (параметрический)",
         "Difficulty": "3",
         "Topics": "Графика, алгоритмы, генерация изображений"
-    },
-    {
-        "Name": "Ulam Spiral",
-        "Description": "Спираль Улама",
-        "Difficulty": "3",
-        "Topics": "Графика, математика, алгоритмы"
     },
     {
         "Name": "Klingon Translator",
