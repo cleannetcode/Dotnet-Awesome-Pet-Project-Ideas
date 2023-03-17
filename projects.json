@@ -1,0 +1,1616 @@
+[
+    {
+        "Name": "Реализация игрового движка",
+        "Description": "Создание основы для разработки компьютерных игр",
+        "Difficulty": "8",
+        "Topics": "ООП, графика, физика, оптимизация, аудио"
+    },
+    {
+        "Name": "Написание базы данных на основе LSM-деревьев",
+        "Description": "Реализация структуры данных для эффективного хранения и извлечения данных",
+        "Difficulty": "7",
+        "Topics": "структуры данных, алгоритмы, файловые системы"
+    },
+    {
+        "Name": "Создание шаблонизатора Docx",
+        "Description": "Инструмент для автоматического заполнения шаблонов документов в формате Docx",
+        "Difficulty": "5",
+        "Topics": "обработка текста, файлы, XML, Office Open XML"
+    },
+    {
+        "Name": "Разработка анализатора вызовов как плагина к IDE",
+        "Description": "Расширение IDE для анализа и визуализации вызовов функций",
+        "Difficulty": "6",
+        "Topics": "графы, IDE, плагины, анализ кода"
+    },
+    {
+        "Name": "Изучение причин и способов устранения out of memory ошибок в высоконагруженных системах",
+        "Description": "Анализ проблем с памятью и оптимизация использования ресурсов",
+        "Difficulty": "7",
+        "Topics": "оптимизация, управление памятью, профилирование"
+    },
+    {
+        "Name": "Создание своего игрового сервера с мультиплеером",
+        "Description": "Разработка серверной части для онлайн-игр",
+        "Difficulty": "8",
+        "Topics": "сетевое программирование, многопоточность, архитектура сервера"
+    },
+    {
+        "Name": "Разработка P2P клиента для обмена данными и прототипа мессенджера, похожего на Telegram",
+        "Description": "Создание прототипа децентрализованного мессенджера",
+        "Difficulty": "8",
+        "Topics": "P2P, криптография, сетевое программирование"
+    },
+    {
+        "Name": "Markov Chain Sentence Generator",
+        "Description": "Генератор текста на основе цепей Маркова",
+        "Difficulty": "4",
+        "Topics": "алгоритмы, структуры данных, обработка текста"
+    },
+    {
+        "Name": "To-Do List Application",
+        "Description": "Простое приложение для управления задачами",
+        "Difficulty": "2",
+        "Topics": "GUI, файлы, базовые алгоритмы"
+    },
+    {
+        "Name": "Chatbot",
+        "Description": "Создание простого чат-бота",
+        "Difficulty": "6",
+        "Topics": "обработка текста, машинное обучение, NLP, API"
+    },
+    {
+        "Name": "Image to ASCII Art",
+        "Description": "Конвертер изображений в ASCII-графику",
+        "Difficulty": "3",
+        "Topics": "обработка изображений, символы ASCII"
+    },
+    {
+        "Name": "Imageboard(Imagine vichan)",
+        "Description": "Создание простой доски для обмена картинками и сообщениями",
+        "Difficulty": "5",
+        "Topics": "веб-разработка, базы данных, сервер"
+    },
+    {
+        "Name": "Create an HSV Color Representation",
+        "Description": "Преобразование цвета из RGB в HSV и обратно",
+        "Difficulty": "2",
+        "Topics": "Цветовые модели, алгоритмы конвертации"
+    },
+    {
+        "Name": "Port Scanner",
+        "Description": "Сканирование сетевых портов на доступность",
+        "Difficulty": "4",
+        "Topics": "Основы сетевого программирования, сканирование портов, асинхронное программирование"
+    },
+    {
+        "Name": "Old School Demo Effect",
+        "Description": "Создание визуальных эффектов старой школы",
+        "Difficulty": "5",
+        "Topics": "Графическое программирование, алгоритмы рендеринга, оптимизация"
+    },
+    {
+        "Name": "Fizzbuzz",
+        "Description": "Вывод чисел от 1 до N с заменой кратных 3 на \"Fizz\", кратных 5 на \"Buzz\" и кратных 15 на \"FizzBuzz\"",
+        "Difficulty": "0",
+        "Topics": "Основы программирования, циклы, условные операторы"
+    },
+    {
+        "Name": "RPN Calculator",
+        "Description": "Калькулятор, использующий обратную польскую запись",
+        "Difficulty": "3",
+        "Topics": "Стеки, алгоритмы вычислений, обработка ввода"
+    },
+    {
+        "Name": "Counts occurrences of characters in a Given String",
+        "Description": "Подсчет вхождений каждого символа в строке",
+        "Difficulty": "1",
+        "Topics": "Строки, словари, циклы"
+    },
+    {
+        "Name": "Tower of Hanoi",
+        "Description": "Решение головоломки \"Ханойская башня\"",
+        "Difficulty": "3",
+        "Topics": "Рекурсия, алгоритмы, основы графического интерфейса"
+    },
+    {
+        "Name": "Calculate the first (n) digits of pi",
+        "Description": "Вычисление первых n десятичных знаков числа π",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы вычисления числа π, численные методы, оптимизация"
+    },
+    {
+        "Name": "Given an Array of Stocks",
+        "Description": "Определение оптимального времени покупки и продажи акций",
+        "Difficulty": "3",
+        "Topics": "Динамическое программирование, алгоритмы"
+    },
+    {
+        "Name": "Highest Prime Factor Calculator",
+        "Description": "Вычисление наибольшего простого делителя числа",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы факторизации, простые числа"
+    },
+    {
+        "Name": "Password Generator",
+        "Description": "Генерация паролей с заданными параметрами",
+        "Difficulty": "2",
+        "Topics": "Генерация случайных чисел, строки, параметризация"
+    },
+    {
+        "Name": "Ceasar Cipher Cracker",
+        "Description": "Взлом шифра Цезаря",
+        "Difficulty": "4",
+        "Topics": "Криптография, частотный анализ, алгоритмы"
+    },
+    {
+        "Name": "ROT 13",
+        "Description": "Шифрование и дешифрование текста с помощью ROT13",
+        "Difficulty": "1",
+        "Topics": "Строки, алгоритмы шифрования, циклы"
+    },
+    {
+        "Name": "Encrypt/Decrypt Text",
+        "Description": "Шифрование и дешифрование текста с использованием различных алгоритмов",
+        "Difficulty": "4",
+        "Topics": "Криптография, алгоритмы шифрования, обработка текста"
+    },
+    {
+        "Name": "Youtube to MP3",
+        "Description": "Конвертация видео с YouTube в аудиоформат MP3",
+        "Difficulty": "5",
+        "Topics": "API YouTube, скачивание видео, конвертация видео в аудио"
+    },
+    {
+        "Name": "Text to hexadecimal/binary",
+        "Description": "Преобразование текста в шестнадцатеричное и двоичное представление",
+        "Difficulty": "1",
+        "Topics": "Строки, системы счисления, циклы"
+    },
+    {
+        "Name": "Sierpinski Triangle",
+        "Description": "Рисование треугольника Серпинского",
+        "Difficulty": "2",
+        "Topics": "Фракталы, рекурсия, графическое программирование"
+    },
+    {
+        "Name": "Basic Neural Network",
+        "Description": "Симуляция нейронов и их связей",
+        "Difficulty": "7",
+        "Topics": "Искусственные нейронные сети, алгоритмы, математика"
+    },
+    {
+        "Name": "Generate a Complimentary Color",
+        "Description": "Генерация дополнительного цвета для заданного цвета",
+        "Difficulty": "2",
+        "Topics": "Цветовые модели, алгоритмы конвертации"
+    },
+    {
+        "Name": "Eulerian Path",
+        "Description": "Нахождение эйлерова пути в графе",
+        "Difficulty": "4",
+        "Topics": "Теория графов, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Draw a spinning 3D Cube",
+        "Description": "Рисование вращающегося 3D куба",
+        "Difficulty": "5",
+        "Topics": "3D графика, матрицы преобразования, графическое программирование"
+    },
+    {
+        "Name": "Cellular Textures",
+        "Description": "Создание текстур на основе клеточных автоматов",
+        "Difficulty": "3",
+        "Topics": "Клеточные автоматы, графическое программирование, алгоритмы"
+    },
+    {
+        "Name": "Snake",
+        "Description": "Разработка игры \"Змейка\"",
+        "Difficulty": "3",
+        "Topics": "Игровое программирование, графический интерфейс, обработка ввода"
+    },
+    {
+        "Name": "Rock Paper Scissors",
+        "Description": "Игра \"Камень, ножницы, бумага\"",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, условные операторы, генерация случайных чисел"
+    },
+    {
+        "Name": "Design a Game Engine in Unity",
+        "Description": "Разработка игрового движка в Unity",
+        "Difficulty": "8",
+        "Topics": "Unity, игровые механики, графика, физика, скриптование"
+    },
+    {
+        "Name": "Yahtzee",
+        "Description": "Создание игры \"Ятцы\"",
+        "Difficulty": "4",
+        "Topics": "Игровое программирование, графический интерфейс, вероятности"
+    },
+    {
+        "Name": "Oil Panic",
+        "Description": "Реализуйте классическую аркадную игру Oil Panic, где игрок должен собирать капли нефти, предотвращая их падение на землю",
+        "Difficulty": "3",
+        "Topics": "Основы C#, разработка игр, графический интерфейс"
+    },
+    {
+        "Name": "Connect Four",
+        "Description": "Создайте игру \"Connect Four\" (четыре в ряд), в которой два игрока по очереди ставят фишки на доске, пытаясь собрать линию из четырех одинаковых фишек",
+        "Difficulty": "3",
+        "Topics": "Основы C#, разработка игр, алгоритмы"
+    },
+    {
+        "Name": "Simon",
+        "Description": "Реализуйте игру-головоломку \"Simon\", где игрокам необходимо запоминать и повторять последовательность цветов и звуков, представленных на игровом поле",
+        "Difficulty": "2",
+        "Topics": "Основы C#, разработка игр, звук, графический интерфейс"
+    },
+    {
+        "Name": "Ulam Spiral",
+        "Description": "Создайте спираль Улама, визуализацию простых чисел",
+        "Difficulty": "3",
+        "Topics": "Математика, визуализация, алгоритмы"
+    },
+    {
+        "Name": "PDF Tagger",
+        "Description": "Создайте инструмент для присваивания тегов PDF-файлам для лучшей организации и поиска",
+        "Difficulty": "5",
+        "Topics": "Обработка PDF, пользовательский интерфейс, файловые операции"
+    },
+    {
+        "Name": "ASCII Digital Clock",
+        "Description": "Создайте цифровые часы с использованием символов ASCII",
+        "Difficulty": "2",
+        "Topics": "Основы работы со строками, ASCII, работа со временем"
+    },
+    {
+        "Name": "Download Manager",
+        "Description": "Разработайте менеджер закачек для управления файлами и отслеживания прогресса загрузки",
+        "Difficulty": "6",
+        "Topics": "Сетевое программирование, пользовательский интерфейс, многопоточность"
+    },
+    {
+        "Name": "Elastic Producer/Consumer Task Queue",
+        "Description": "Создайте гибкую очередь задач с использованием паттерна \"производитель-потребитель\"",
+        "Difficulty": "7",
+        "Topics": "Многопоточность, очереди, алгоритмы"
+    },
+    {
+        "Name": "IRC Client",
+        "Description": "Разработайте IRC-клиент для общения в чатах",
+        "Difficulty": "6",
+        "Topics": "Сетевое программирование, пользовательский интерфейс, протоколы"
+    },
+    {
+        "Name": "English Sentence Parser",
+        "Description": "Создайте инструмент для анализа английских предложений, указывающий на контекст предложения",
+        "Difficulty": "7",
+        "Topics": "Обработка текста, NLP, алгоритмы"
+    },
+    {
+        "Name": "MIDI Player + Editor",
+        "Description": "Разработайте MIDI-плеер и редактор для работы с музыкальными файлами",
+        "Difficulty": "7",
+        "Topics": "Обработка аудио, пользовательский интерфейс, музыкальные форматы"
+    },
+    {
+        "Name": "Stock Market Simulator",
+        "Description": "Создайте симулятор рынка акций на основе данных из электронных таблиц Yahoo",
+        "Difficulty": "6",
+        "Topics": "Сетевое программирование, обработка данных, экономические модели"
+    },
+    {
+        "Name": "Graphic Calculator",
+        "Description": "Создайте графический калькулятор для визуализации математических функций",
+        "Difficulty": "4",
+        "Topics": "Математика, графика, пользовательский интерфейс"
+    },
+    {
+        "Name": "TCP/UDP Chat Server + Client",
+        "Description": "Разработайте сервер и клиент для чата на основе протоколов TCP/UDP",
+        "Difficulty": "6",
+        "Topics": "Сетевое программирование, протоколы, пользовательский интерфейс"
+    },
+    {
+        "Name": "Shazam",
+        "Description": "Создайте систему распознавания музыкальных треков, аналогичную Shazam",
+        "Difficulty": "8",
+        "Topics": "Обработка аудио, машинное обучение, алгоритмы"
+    },
+    {
+        "Name": "Curses Text Editor",
+        "Description": "Разработайте текстовый редактор с использованием библиотеки Curses",
+        "Difficulty": "5",
+        "Topics": "Текстовые редакторы, пользовательский интерфейс, обработка текста"
+    },
+    {
+        "Name": "Paint Clone",
+        "Description": "Создайте клон графического редактора Paint",
+        "Difficulty": "5",
+        "Topics": "Графика, пользовательский интерфейс, обработка изображений"
+    },
+    {
+        "Name": "Booru (Image Board) Image Downloader",
+        "Description": "Разработайте инструмент для скачивания изображений с борд, подобных Danbooru",
+        "Difficulty": "4",
+        "Topics": "Сетевое программирование, обработка изображений, веб-скрапинг"
+    },
+    {
+        "Name": "Image Converter",
+        "Description": "Создайте инструмент для конвертации изображений между различными форматами",
+        "Difficulty": "3",
+        "Topics": "Обработка изображений, файловые операции, пользовательский интерфейс"
+    },
+    {
+        "Name": "ID3 Reader",
+        "Description": "Разработайте программу для чтения и редактирования метаданных ID3 в аудиофайлах",
+        "Difficulty": "4",
+        "Topics": "Обработка аудио, метаданные, пользовательский интерфейс"
+    },
+    {
+        "Name": "Password Manager",
+        "Description": "Менеджер паролей для хранения и генерации безопасных паролей",
+        "Difficulty": "3",
+        "Topics": "Криптография, безопасное хранение данных, пользовательский интерфейс"
+    },
+    {
+        "Name": "Key Press Bot",
+        "Description": "Бот для автоматического нажатия клавиш",
+        "Difficulty": "2",
+        "Topics": "Основы работы с клавиатурой, события, программирование под события"
+    },
+    {
+        "Name": "IP/URL Obfuscation",
+        "Description": "Обфускация IP-адресов и URL-ссылок для скрытия реальных данных",
+        "Difficulty": "3",
+        "Topics": "Основы работы с IP и URL, алгоритмы обфускации, структуры данных"
+    },
+    {
+        "Name": "Radix Base Converter",
+        "Description": "Конвертер чисел из одной системы счисления в другую",
+        "Difficulty": "2",
+        "Topics": "Основы работы с системами счисления, алгоритмы преобразования"
+    },
+    {
+        "Name": "Window Manager",
+        "Description": "Разработка оконного менеджера для управления окнами приложений",
+        "Difficulty": "6",
+        "Topics": "Основы графического интерфейса, алгоритмы, структуры данных, ООП"
+    },
+    {
+        "Name": "Pixel Editor",
+        "Description": "Редактор пиксельной графики для создания и редактирования изображений",
+        "Difficulty": "4",
+        "Topics": "Графический интерфейс, обработка изображений, структуры данных"
+    },
+    {
+        "Name": "Trivial File Transfer Protocol (TFTP)",
+        "Description": "Реализация протокола TFTP для передачи файлов между клиентом и сервером",
+        "Difficulty": "5",
+        "Topics": "Основы работы с сетью, протоколы передачи данных, файловые системы"
+    },
+    {
+        "Name": "Markdown (HTML/XML) Editor",
+        "Description": "Редактор Markdown, HTML или XML для создания и редактирования документов",
+        "Difficulty": "4",
+        "Topics": "Основы работы с языками разметки, графический интерфейс, структуры данных, ООП"
+    },
+    {
+        "Name": "IP Tracking Visualization",
+        "Description": "Визуализация трассировки IP-адресов на карте",
+        "Difficulty": "5",
+        "Topics": "Основы работы с IP, геолокация, визуализация данных, сетевое программирование"
+    },
+    {
+        "Name": "Music Visualizer",
+        "Description": "Визуализатор музыки, отображающий анимации в соответствии с аудио сигналом",
+        "Difficulty": "6",
+        "Topics": "Обработка аудио, визуализация, алгоритмы"
+    },
+    {
+        "Name": "Unicode Converter",
+        "Description": "Конвертер текста в Unicode-представление и обратно",
+        "Difficulty": "2",
+        "Topics": "Основы работы с Unicode, структуры данных, алгоритмы"
+    },
+    {
+        "Name": "Least Squares Fitting Algorithm",
+        "Description": "Реализация алгоритма наименьших квадратов для аппроксимации данных",
+        "Difficulty": "4",
+        "Topics": "Математические основы, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Hide and Extract Data in images (Basic Steganography)",
+        "Description": "Базовая стеганография для скрытия и извлечения данных в изображениях",
+        "Difficulty": "5",
+        "Topics": "Обработка изображений, криптография, стеганография, структуры данных"
+    },
+    {
+        "Name": "Web Page Crawler",
+        "Description": "Поисковый робот для автоматического обхода и индексации веб-страниц",
+        "Difficulty": "5",
+        "Topics": "Сетевое программирование, работа с HTTP, парсинг HTML, структуры данных, ООП"
+    },
+    {
+        "Name": "Vigenère cipher encryption/decryption",
+        "Description": "Шифрование и дешифрование с использованием шифра Виженера",
+        "Difficulty": "3",
+        "Topics": "Криптография, структуры данных, алгоритмы"
+    },
+    {
+        "Name": "Game of Life",
+        "Description": "Реализация клеточного автомата \"Игра жизни\"",
+        "Difficulty": "3",
+        "Topics": "Основы клеточных автоматов, графический интерфейс, алгоритмы"
+    },
+    {
+        "Name": "Dijkstra's Algorithm",
+        "Description": "Реализация алгоритма Дейкстры для поиска кратчайшего пути в графе",
+        "Difficulty": "4",
+        "Topics": "Основы работы с графами, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Program that displays MBR Contents",
+        "Description": "Программа для отображения содержимого MBR (Master Boot Record)",
+        "Difficulty": "5",
+        "Topics": "Основы работы с жестким диском, MBR, системное программирование"
+    },
+    {
+        "Name": "Random Name Picker",
+        "Description": "Генератор случайных имен из списка",
+        "Difficulty": "1",
+        "Topics": "Основы работы со случайными числами, структуры данных"
+    },
+    {
+        "Name": "Calculate the first 1k digits of Pi iteratively",
+        "Description": "Итеративный расчет первых 1000 знаков числа Пи",
+        "Difficulty": "4",
+        "Topics": "Математические алгоритмы, численные методы"
+    },
+    {
+        "Name": "Mandelbrot Set",
+        "Description": "Визуализация множества Мандельброта",
+        "Difficulty": "4",
+        "Topics": "Комплексные числа, визуализация, алгоритмы"
+    },
+    {
+        "Name": "AI for Roguelikes",
+        "Description": "Разработка искусственного интеллекта для рогаликов",
+        "Difficulty": "6",
+        "Topics": "Основы игрового ИИ, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Sudoku/n-Puzzle Solver using A* algorithm",
+        "Description": "Решатель головоломок Судоку и n-пазл с использованием алгоритма A*",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы, структуры данных, эвристика"
+    },
+    {
+        "Name": "Connect-4 AI Player using Alpha-Beta Pruning",
+        "Description": "ИИ для игры \"Connect-4\" с использованием алгоритма отсечения альфа-бета",
+        "Difficulty": "6",
+        "Topics": "Игровой ИИ, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Real Neural Network",
+        "Description": "Реализация базовой прямоходящей нейронной сети с использованием матриц и матричных операций",
+        "Difficulty": "7",
+        "Topics": "Машинное обучение, нейронные сети, линейная алгебра"
+    },
+    {
+        "Name": "Convolutional Neural Network",
+        "Description": "Реализация сверточной нейронной сети для распознавания рукописных цифр на основе набора данных MNIST",
+        "Difficulty": "8",
+        "Topics": "Машинное обучение, сверточные нейронные сети, библиотеки TensorFlow, Theano"
+    },
+    {
+        "Name": "Virtual Machine with Script that Writes \"Hello, Word\"",
+        "Description": "Виртуальная машина с скриптом, выводящим \"Hello, World\"",
+        "Difficulty": "5",
+        "Topics": "Виртуализация, интерпретация, системное программирование"
+    },
+    {
+        "Name": "Terminal Shell",
+        "Description": "Терминальная оболочка с поддержкой исполняемых файлов, системы каналов, перенаправления и истории команд",
+        "Difficulty": "6",
+        "Topics": "Системное программирование, обработка команд, межпроцессное взаимодействие"
+    },
+    {
+        "Name": "HTML + JavaScript Debugger",
+        "Description": "Отладчик HTML и JavaScript",
+        "Difficulty": "7",
+        "Topics": "Веб-разработка, отладка, DOM, JavaScript"
+    },
+    {
+        "Name": "Write an interpreted LISP-Like programming language",
+        "Description": "Реализация интерпретируемого языка программирования, похожего на LISP",
+        "Difficulty": "7",
+        "Topics": "Языки программирования, интерпретация, компиляция"
+    },
+    {
+        "Name": "Universal Asynchronous Receiver/Transmitter (UART) Game (In assembly)",
+        "Description": "Игра на основе UART (Универсальный асинхронный приемопередатчик), написанная на языке ассемблера",
+        "Difficulty": "9",
+        "Topics": "Микроконтроллеры, асинхронная связь, ассемблер"
+    },
+    {
+        "Name": "Static Website Generator",
+        "Description": "Генератор статических веб-сайтов (Скриптовые шаблоны + контент -> HTML и CSS)",
+        "Difficulty": "4",
+        "Topics": "Веб-разработка, HTML, CSS, шаблонизация"
+    },
+    {
+        "Name": "Chip-8 Emulator",
+        "Description": "Эмулятор Chip-8",
+        "Difficulty": "6",
+        "Topics": "Эмуляция, системное программирование, работа с графикой (Сложный режим: Кэшированный интерпретатор. Очень сложно: динамическая рекомпиляция с использованием библиотеки dynarec/jit)"
+    },
+    {
+        "Name": "Double Pendulum Simulation",
+        "Description": "Симуляция двойного маятника",
+        "Difficulty": "4",
+        "Topics": "Физика, математика, графика"
+    },
+    {
+        "Name": "Constructive Solid Geometry",
+        "Description": "Конструктивная твердотельная геометрия",
+        "Difficulty": "6",
+        "Topics": "3D-графика, математика, алгоритмы"
+    },
+    {
+        "Name": "Generate a 5-Color Scheme from the most dominant tones in any image",
+        "Description": "Генерация палитры из 5 доминирующих цветов на основе изображения",
+        "Difficulty": "4",
+        "Topics": "Обработка изображений, алгоритмы, цветовые пространства"
+    },
+    {
+        "Name": "N-Body Simulator",
+        "Description": "Симулятор множества тел с определенной массой и радиусом, зависящими от массы, которые объединяются при столкновении",
+        "Difficulty": "5",
+        "Topics": "Физика, математика, симуляция"
+    },
+    {
+        "Name": "Knight's Tour",
+        "Description": "Проблема ходом коня на шахматной доске",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы, математика, графы"
+    },
+    {
+        "Name": "Tetris",
+        "Description": "Реализация игры Тетрис",
+        "Difficulty": "4",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Pipe Dreams",
+        "Description": "Реализация игры Pipe Dreams",
+        "Difficulty": "4",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Pac Man, With Different Behaviors for each ghost",
+        "Description": "Реализация игры Pac-Man с различным поведением для каждого призрака",
+        "Difficulty": "5",
+        "Topics": "Игровые механики, графика, искусственный интеллект"
+    },
+    {
+        "Name": "Shuffle a Deck of Cards",
+        "Description": "Алгоритм перемешивания колоды карт",
+        "Difficulty": "2",
+        "Topics": "Алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Simulate a game of Tag using a multi-agent system",
+        "Description": "Симуляция игры в догонялки с использованием многопользовательской системы",
+        "Difficulty": "6",
+        "Topics": "Искусственный интеллект, мультиагентные системы, симуляция"
+    },
+    {
+        "Name": "Scorched Earth Clone",
+        "Description": "Клон игры Scorched Earth",
+        "Difficulty": "5",
+        "Topics": "Игровые механики, графика, алгоритмы, физика"
+    },
+    {
+        "Name": "Minesweeper",
+        "Description": "Реализация игры Сапер",
+        "Difficulty": "3",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "An Audio/Visual 64KB Demonstration",
+        "Description": "Аудио-визуальная демонстрация размером 64 КБ",
+        "Difficulty": "7",
+        "Topics": "Графика, звук, оптимизация"
+    },
+    {
+        "Name": "Sudoku",
+        "Description": "Реализация игры Судоку",
+        "Difficulty": "4",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Chess",
+        "Description": "Реализация шахмат",
+        "Difficulty": "6",
+        "Topics": "Игровые механики, графика, алгоритмы, искусственный интеллект"
+    },
+    {
+        "Name": "Mastermind",
+        "Description": "Реализация игры Мастермайнд",
+        "Difficulty": "3",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Missile Command Game",
+        "Description": "Реализация игры Missile Command",
+        "Difficulty": "5",
+        "Topics": "Игровые механики, графика, алгоритмы, физика"
+    },
+    {
+        "Name": "Tron",
+        "Description": "Реализация игры Трон",
+        "Difficulty": "4",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Breakout",
+        "Description": "Реализация игры Breakout",
+        "Difficulty": "4",
+        "Topics": "Игровые механики, графика, алгоритмы"
+    },
+    {
+        "Name": "Bellman-Ford Simulation with at least Five Vertices",
+        "Description": "Симуляция алгоритма Беллмана-Форда с минимум пятью вершинами",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графы, визуализация"
+    },
+    {
+        "Name": "Matrix Arithmetic",
+        "Description": "Матричная арифметика",
+        "Difficulty": "2",
+        "Topics": "Матрицы, алгоритмы"
+    },
+    {
+        "Name": "File Compression Utility (Make it GUI)",
+        "Description": "Утилита сжатия файлов с графическим интерфейсом",
+        "Difficulty": "5",
+        "Topics": "Сжатие данных, графический интерфейс"
+    },
+    {
+        "Name": "Calculate Dot and Cross Product of Two Vectors",
+        "Description": "Расчет скалярного и векторного произведений двух векторов",
+        "Difficulty": "1",
+        "Topics": "Алгебра, алгоритмы"
+    },
+    {
+        "Name": "Bismuth Fractal",
+        "Description": "Фрактал Бисмута",
+        "Difficulty": "3",
+        "Topics": "Фракталы, графика, алгоритмы"
+    },
+    {
+        "Name": "Seam Carving",
+        "Description": "Seam Carving",
+        "Difficulty": "6",
+        "Topics": "Обработка изображений, графика, алгоритмы"
+    },
+    {
+        "Name": "Bayesian Filter",
+        "Description": "Байесовский фильтр",
+        "Difficulty": "5",
+        "Topics": "Статистика, вероятность, алгоритмы"
+    },
+    {
+        "Name": "Parametric/Graphic Equalizer to .wav files",
+        "Description": "Параметрический/графический эквалайзер для .wav файлов",
+        "Difficulty": "5",
+        "Topics": "Цифровая обработка сигналов, алгоритмы, звук"
+    },
+    {
+        "Name": "Verlet Integration",
+        "Description": "Интеграция Верле",
+        "Difficulty": "4",
+        "Topics": "Физика, алгоритмы"
+    },
+    {
+        "Name": "Music Streaming",
+        "Description": "Стриминг музыки",
+        "Difficulty": "7",
+        "Topics": "Аудио, сетевое программирование, кодирование, потоковая передача данных"
+    },
+    {
+        "Name": "Sound Synthesis (Sine, square, sawtooth, etc.)",
+        "Description": "Синтез звука (синусоиды, квадратные, пилообразные и др.)",
+        "Difficulty": "4",
+        "Topics": "Цифровая обработка сигналов, звук, алгоритмы"
+    },
+    {
+        "Name": "Create a Torrent Client (CLI or GUI)",
+        "Description": "Создать торрент-клиент (CLI или GUI)",
+        "Difficulty": "7",
+        "Topics": "Сетевое программирование, протокол BitTorrent, алгоритмы"
+    },
+    {
+        "Name": "Booru Client",
+        "Description": "Клиент для Booru",
+        "Difficulty": "5",
+        "Topics": "API, веб-скрапинг, графический интерфейс"
+    },
+    {
+        "Name": "Chan Aggregator",
+        "Description": "Агрегатор различных 'chan' досок",
+        "Difficulty": "6",
+        "Topics": "Веб-скрапинг, парсинг, графический интерфейс (Бонус: добавить функционал 4ChanX и архивирования)"
+    },
+    {
+        "Name": "Make a Text Editor that autosaves and includes the data in the filename",
+        "Description": "Создать текстовый редактор с автосохранением и включением данных в имя файла",
+        "Difficulty": "4",
+        "Topics": "Текстовые редакторы, файловая система, графический интерфейс"
+    },
+    {
+        "Name": "OpenAI Gym Project",
+        "Description": "Проект на базе OpenAI Gym",
+        "Difficulty": "7",
+        "Topics": "Искусственный интеллект, машинное обучение, OpenAI Gym"
+    },
+    {
+        "Name": "Convolutional Neural Network: Implement your own Convolutional Neural Network for handwritten digit recognition, test on MNIST Dataset (Without TensorFlow, Theano, etc...)",
+        "Description": "Реализовать свою сверточную нейронную сеть для распознавания рукописных цифр, тестирование на наборе данных MNIST (без TensorFlow, Theano и др.)",
+        "Difficulty": "9",
+        "Topics": "Сверточные нейронные сети, машинное обучение, алгоритмы"
+    },
+    {
+        "Name": "Make an application that is capable of mounting filesystems from other OSes using the FUSE model",
+        "Description": "Создать приложение, способное монтировать файловые системы других ОС с использованием модели FUSE",
+        "Difficulty": "7",
+        "Topics": "Файловые системы, FUSE, кросс-платформенное программирование"
+    },
+    {
+        "Name": "Pong Game as a UEFI file in color",
+        "Description": "Игра Pong в виде UEFI-файла в цвете",
+        "Difficulty": "8",
+        "Topics": "UEFI, графика, системное программирование, игровые движки"
+    },
+    {
+        "Name": "Design an Esoteric Language",
+        "Description": "Создать эзотерический язык программирования",
+        "Difficulty": "5",
+        "Topics": "Компиляция, интерпретация, языки программирования, дизайн языков"
+    },
+    {
+        "Name": "Turing Machine Simulator",
+        "Description": "Симулятор машины Тьюринга",
+        "Difficulty": "5",
+        "Topics": "Теория вычислений, машина Тьюринга, алгоритмы"
+    },
+    {
+        "Name": "Read, Evaluate, Print Loop using a compiled language",
+        "Description": "REPL с использованием компилируемого языка программирования",
+        "Difficulty": "5",
+        "Topics": "Компиляция, интерпретация, языки программирования"
+    },
+    {
+        "Name": "Ray Tracer",
+        "Description": "Реализация трассировки лучей",
+        "Difficulty": "7",
+        "Topics": "Трассировка лучей, компьютерная графика, математика"
+    },
+    {
+        "Name": "Real-time Fast Fourier Transform Spectrum Visualizer",
+        "Description": "Визуализатор спектра с применением преобразования Фурье в реальном времени",
+        "Difficulty": "7",
+        "Topics": "Цифровая обработка сигналов, преобразование Фурье, графика, алгоритмы"
+    },
+    {
+        "Name": "TI-86 Emulator",
+        "Description": "Эмулятор TI-86",
+        "Difficulty": "8",
+        "Topics": "Эмуляция, микропроцессоры, системное программирование"
+    },
+    {
+        "Name": "Monster Raising/Breeding Simulator",
+        "Description": "Симулятор разведения и воспитания монстров",
+        "Difficulty": "6",
+        "Topics": "Игровые механики, генетические алгоритмы, графика"
+    },
+    {
+        "Name": "Dragon Quest/Basic RPG Engine",
+        "Description": "Движок для базовой ролевой игры в стиле Dragon Quest",
+        "Difficulty": "7",
+        "Topics": "Игровые движки, игровые механики, графика, звук"
+    },
+    {
+        "Name": "First-person Engine in OpenGL (Walking, Looking Around, jumping on obstacles)",
+        "Description": "Движок для игры от первого лица на OpenGL (ходьба, осмотр вокруг, прыжки на препятствия)",
+        "Difficulty": "7",
+        "Topics": "OpenGL, компьютерная графика, физика, игровые движки"
+    },
+    {
+        "Name": "Wolfenstein Clone (FPS, Two-dimensional map that appears to be 3D)",
+        "Description": "Клон Wolfenstein (FPS, двухмерная карта, выглядящая как 3D)",
+        "Difficulty": "7",
+        "Topics": "Графика, игровые движки, алгоритмы, двумерная графика, 3D-проекция"
+    },
+    {
+        "Name": "Danmaku (Bullet Hell) Engine",
+        "Description": "Движок для игр типа \"Bullet Hell\"",
+        "Difficulty": "6",
+        "Topics": "Игровые движки, графика, алгоритмы, управление событиями"
+    },
+    {
+        "Name": "Roguelike Engine/Dungeon Generator",
+        "Description": "Движок для рогаликов/генератор подземелий",
+        "Difficulty": "6",
+        "Topics": "Игровые движки, графика, генерация контента, алгоритмы"
+    },
+    {
+        "Name": "Go (No AI Necessary)",
+        "Description": "Игра Го (без AI)",
+        "Difficulty": "4",
+        "Topics": "Графика, игровые механики, алгоритмы"
+    },
+    {
+        "Name": "LISP Interpreter",
+        "Description": "Интерпретатор LISP",
+        "Difficulty": "7",
+        "Topics": "Языки программирования, интерпретация, компиляция, дизайн языков"
+    },
+    {
+        "Name": "Nonogram Generator and Solver",
+        "Description": "Генератор и решатель головоломки \"Нонограмма\"",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы, головоломки, графика"
+    },
+    {
+        "Name": "WMS Viewer that isn't web-based",
+        "Description": "Просмотрщик WMS, не основанный на веб-технологиях",
+        "Difficulty": "6",
+        "Topics": "Графика, обработка данных, геоинформационные системы"
+    },
+    {
+        "Name": "Basic Relational Database Software",
+        "Description": "Простое программное обеспечение для реляционных баз данных",
+        "Difficulty": "6",
+        "Topics": "Базы данных, реляционные базы данных, алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Basic Bootloader",
+        "Description": "Базовый загрузчик",
+        "Difficulty": "6",
+        "Topics": "Низкоуровневое программирование, ассемблер, операционные системы"
+    },
+    {
+        "Name": "General Lambert's-problem Solver",
+        "Description": "Решатель общей проблемы Ламберта",
+        "Difficulty": "7",
+        "Topics": "Математика, астродинамика, численные методы"
+    },
+    {
+        "Name": "Name Generator",
+        "Description": "Генератор имён",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, генерация случайных данных, обработка текста"
+    },
+    {
+        "Name": "Higher/lower, Heads/tails",
+        "Description": "Игра \"Выше/ниже\", \"Орел/решка\"",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, вероятности, генерация случайных чисел"
+    },
+    {
+        "Name": "Temperature Converter",
+        "Description": "Конвертер температур",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, математика, формулы преобразования"
+    },
+    {
+        "Name": "Calculate Age in Seconds (with leap years)",
+        "Description": "Расчёт возраста в секундах (с учётом високосных лет)",
+        "Difficulty": "2",
+        "Topics": "Основы программирования, дата и время, математика"
+    },
+    {
+        "Name": "Encryption/Decryption Algorithm",
+        "Description": "Алгоритм шифрования/дешифрования",
+        "Difficulty": "5",
+        "Topics": "Криптография, алгоритмы, безопасность"
+    },
+    {
+        "Name": "Rock, Paper, Scissors (Lizard, Spock)",
+        "Description": "Камень, ножницы, бумага (ящерица, Спок)",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, условные операторы"
+    },
+    {
+        "Name": "Project Euler (in every language you know)",
+        "Description": "Project Euler на всех известных языках программирования",
+        "Difficulty": "5",
+        "Topics": "Математика, алгоритмы, разные языки программирования"
+    },
+    {
+        "Name": "Hangman",
+        "Description": "Виселица",
+        "Difficulty": "2",
+        "Topics": "Основы программирования, обработка текста, генерация случайных чисел"
+    },
+    {
+        "Name": "Love Calculator",
+        "Description": "Калькулятор любви",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, вероятности, генерация случайных чисел"
+    },
+    {
+        "Name": "Random Sentence Generator",
+        "Description": "Генератор случайных предложений",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, генерация случайных данных, обработка текста"
+    },
+    {
+        "Name": "Password/Passphrase Generator",
+        "Description": "Генератор паролей/фраз",
+        "Difficulty": "2",
+        "Topics": "Основы программирования, генерация случайных данных, безопасность"
+    },
+    {
+        "Name": "Internet Time ((S)NTP)",
+        "Description": "Интернет-время ((S)NTP)",
+        "Difficulty": "4",
+        "Topics": "Сетевое программирование, протоколы, дата и время"
+    },
+    {
+        "Name": "Haiku Generator",
+        "Description": "Генератор хайку",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, генерация случайных данных, обработка текста, поэзия"
+    },
+    {
+        "Name": "Magic Eight Ball",
+        "Description": "Волшебный шар-8",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, генерация случайных чисел"
+    },
+    {
+        "Name": "Collatz Conjecture",
+        "Description": "Гипотеза Коллатца",
+        "Difficulty": "2",
+        "Topics": "Основы программирования, математика, циклы"
+    },
+    {
+        "Name": "Reverse a String",
+        "Description": "Разворачивание строки",
+        "Difficulty": "1",
+        "Topics": "Основы программирования, обработка текста"
+    },
+    {
+        "Name": "Steam",
+        "Description": "Инди-платформа для публикации программ и игр",
+        "Difficulty": "7",
+        "Topics": "Веб-разработка, платежные системы, авторизация, хостинг"
+    },
+    {
+        "Name": "GameJam",
+        "Description": "Организация геймджемов и хакатонов",
+        "Difficulty": "6",
+        "Topics": "Веб-разработка, событийное программирование, сетевое взаимодействие"
+    },
+    {
+        "Name": "IndieHub",
+        "Description": "Социальная сеть для инди-разработчиков",
+        "Difficulty": "6",
+        "Topics": "Веб-разработка, социальные сети, авторизация, базы данных"
+    },
+    {
+        "Name": "GameReviews",
+        "Description": "Сайт с обзорами и рейтингами инди-игр",
+        "Difficulty": "5",
+        "Topics": "Веб-разработка, контент-менеджмент, SEO, базы данных"
+    },
+    {
+        "Name": "GameDevTools",
+        "Description": "Ресурс с обучающими материалами для разработки игр",
+        "Difficulty": "5",
+        "Topics": "Веб-разработка, контент-менеджмент, обучение"
+    },
+    {
+        "Name": "GameMarketplace",
+        "Description": "Онлайн-рынок игровых активов",
+        "Difficulty": "7",
+        "Topics": "Веб-разработка, электронная коммерция, авторизация, хостинг"
+    },
+    {
+        "Name": "GameTutorials",
+        "Description": "Уроки по разработке игр на русском языке",
+        "Difficulty": "4",
+        "Topics": "Видеопроизводство, контент-менеджмент, обучение"
+    },
+    {
+        "Name": "GameLocalization",
+        "Description": "Сервис локализации игр",
+        "Difficulty": "6",
+        "Topics": "Веб-разработка, локализация, авторизация, базы данных"
+    },
+    {
+        "Name": "GameEvents",
+        "Description": "Организация игровых мероприятий и конференций",
+        "Difficulty": "5",
+        "Topics": "Веб-разработка, событийное программирование, маркетинг"
+    },
+    {
+        "Name": "GameIncubator",
+        "Description": "Инкубатор для инди-разработчиков",
+        "Difficulty": "6",
+        "Topics": "Веб-разработка, наставничество, сетевое взаимодействие, финансирование"
+    },
+    {
+        "Name": "Eulerian Path",
+        "Description": "Нахождение Эйлерова пути в графе",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графы, теория графов"
+    },
+    {
+        "Name": "Simple File Explorer",
+        "Description": "Простой файловый менеджер",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, файловая система"
+    },
+    {
+        "Name": "Count Words in a String",
+        "Description": "Подсчет слов, предложений и абзацев в тексте",
+        "Difficulty": "2",
+        "Topics": "Строковые операции, регулярные выражения"
+    },
+    {
+        "Name": "Minesweeper",
+        "Description": "Клон игры \"Сапер\"",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, игровая логика"
+    },
+    {
+        "Name": "Connect Four",
+        "Description": "Игра \"Четыре в ряд\"",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, игровая логика"
+    },
+    {
+        "Name": "BMI Calculator",
+        "Description": "Калькулятор индекса массы тела",
+        "Difficulty": "1",
+        "Topics": "Математика, пользовательский интерфейс"
+    },
+    {
+        "Name": "4chan Thread/Image Downloader",
+        "Description": "Загрузчик тредов и изображений с 4chan",
+        "Difficulty": "4",
+        "Topics": "Веб-скрейпинг, сетевое программирование"
+    },
+    {
+        "Name": "Sudoku Generator/Solver",
+        "Description": "Генератор и решатель судоку",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, логические задачи"
+    },
+    {
+        "Name": "Maze Generator/Solver",
+        "Description": "Генератор и решатель лабиринтов",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графы, генерация контента"
+    },
+    {
+        "Name": "Radix (Base) Converter",
+        "Description": "Конвертер чисел между различными системами счисления",
+        "Difficulty": "2",
+        "Topics": "Математика, системы счисления"
+    },
+    {
+        "Name": "Picross Solver",
+        "Description": "Решатель головоломки Picross",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы, логические задачи, оптимизация"
+    },
+    {
+        "Name": "Fibonacci Sequence",
+        "Description": "Генерация последовательности Фибоначчи",
+        "Difficulty": "1",
+        "Topics": "Математика, рекурсия, динамическое программирование"
+    },
+    {
+        "Name": "Factorial",
+        "Description": "Вычисление факториала числа",
+        "Difficulty": "1",
+        "Topics": "Математика, рекурсия"
+    },
+    {
+        "Name": "Cipher Encryption/Decryption Tool",
+        "Description": "Инструмент для шифрования/дешифрования с использованием различных шифров",
+        "Difficulty": "3",
+        "Topics": "Криптография, структуры данных"
+    },
+    {
+        "Name": "Blackjack",
+        "Description": "Игра \"Блэкджек\"",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, игровая логика"
+    },
+    {
+        "Name": "Dungeons & Dragons with AI",
+        "Description": "Игра \"Подземелья и драконы\" с искусственным интеллектом",
+        "Difficulty": "8",
+        "Topics": "ИИ, генерация контента, пользовательский интерфейс, геймдизайн"
+    },
+    {
+        "Name": "Generate ASCII Tree",
+        "Description": "Генератор деревьев в формате ASCII",
+        "Difficulty": "2",
+        "Topics": "Графические алгоритмы, структуры данных"
+    },
+    {
+        "Name": "Genetic Algorithms on Polygons",
+        "Description": "Генетические алгоритмы на полигонах",
+        "Difficulty": "6",
+        "Topics": "Генетические алгоритмы, оптимизация, графика"
+    },
+    {
+        "Name": "Benford's Law",
+        "Description": "Применение закона Бенфорда",
+        "Difficulty": "2",
+        "Topics": "Статистика, анализ данных"
+    },
+    {
+        "Name": "Currency Converter",
+        "Description": "Конвертер валют с поддержкой различных единиц измерения, товаров и историей курсов",
+        "Difficulty": "4",
+        "Topics": "API, сетевое программирование, пользовательский интерфейс"
+    },
+    {
+        "Name": "Static Website Generator",
+        "Description": "Генератор статических сайтов",
+        "Difficulty": "4",
+        "Topics": "HTML, CSS, шаблонизаторы, скриптовые языки"
+    },
+    {
+        "Name": "Crossword Game",
+        "Description": "Игра в кроссворды",
+        "Difficulty": "5",
+        "Topics": "Программирование пользовательского интерфейса, логика игры, структуры данных"
+    },
+    {
+        "Name": "Scientific Calculator (CLI)",
+        "Description": "Научный калькулятор с командной строкой",
+        "Difficulty": "3",
+        "Topics": "Математические функции, обработка текста, алгоритмы"
+    },
+    {
+        "Name": "Scientific Calculator (GUI)",
+        "Description": "Научный калькулятор с графическим интерфейсом",
+        "Difficulty": "4",
+        "Topics": "Математические функции, обработка текста, пользовательский интерфейс"
+    },
+    {
+        "Name": "Perlin Noise",
+        "Description": "Генерация шума Перлина",
+        "Difficulty": "5",
+        "Topics": "Графика, генерация текстур, математика"
+    },
+    {
+        "Name": "Image Viewer",
+        "Description": "Просмотрщик изображений",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, работа с изображениями"
+    },
+    {
+        "Name": "ASCII Digital Clock",
+        "Description": "Часы в формате ASCII",
+        "Difficulty": "2",
+        "Topics": "Обработка текста, отображение времени"
+    },
+    {
+        "Name": "Dijkstra's Algorithm",
+        "Description": "Реализация алгоритма Дейкстры",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графы, структуры данных"
+    },
+    {
+        "Name": "Text/Morse Code Translator (+sound)",
+        "Description": "Переводчик текста/Морзе с поддержкой звука",
+        "Difficulty": "3",
+        "Topics": "Обработка текста, звук, пользовательский интерфейс"
+    },
+    {
+        "Name": "Tic-Tac-Toe",
+        "Description": "Игра \"Крестики-нолики\"",
+        "Difficulty": "2",
+        "Topics": "Программирование пользовательского интерфейса, логика игры"
+    },
+    {
+        "Name": "Snake Game",
+        "Description": "Игра \"Змейка\"",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, логика игры"
+    },
+    {
+        "Name": "FTP Client (+Server)",
+        "Description": "FTP-клиент (+сервер)",
+        "Difficulty": "5",
+        "Topics": "Протокол FTP, сетевое программирование, пользовательский интерфейс"
+    },
+    {
+        "Name": "Telnet Server (+Client, Netcat Clone?)",
+        "Description": "Telnet-сервер (+клиент, клон Netcat?)",
+        "Difficulty": "5",
+        "Topics": "Протокол Telnet, сетевое программирование"
+    },
+    {
+        "Name": "IMP Interpreter",
+        "Description": "Интерпретатор IMP",
+        "Difficulty": "4",
+        "Topics": "Обработка текста, алгоритмы, компиляция/интерпретация"
+    },
+    {
+        "Name": "Tetris",
+        "Description": "Тетрис",
+        "Difficulty": "3",
+        "Topics": "Программирование пользовательского интерфейса, логика игры"
+    },
+    {
+        "Name": "Conway's Game of Life (other cellular automata)",
+        "Description": "Игра \"Жизнь\" Конвея (другие клеточные автоматы)",
+        "Difficulty": "3",
+        "Topics": "Графика, алгоритмы, клеточные автоматы"
+    },
+    {
+        "Name": "Web Crawler",
+        "Description": "Веб-сканер",
+        "Difficulty": "4",
+        "Topics": "Сетевое программирование, обработка HTML, рекурсия"
+    },
+    {
+        "Name": "Text Editor",
+        "Description": "Текстовый редактор",
+        "Difficulty": "4",
+        "Topics": "Программирование пользовательского интерфейса, обработка текста"
+    },
+    {
+        "Name": "RSS Feed Reader",
+        "Description": "Читатель RSS-лент",
+        "Difficulty": "4",
+        "Topics": "Сетевое программирование, парсинг XML, пользовательский интерфейс"
+    },
+    {
+        "Name": "RPN Calculator",
+        "Description": "Обратно-польский калькулятор",
+        "Difficulty": "3",
+        "Topics": "Математические функции, структуры данных, пользовательский интерфейс"
+    },
+    {
+        "Name": "Mandelbrot Set (other fractals)",
+        "Description": "Множество Мандельброта (другие фракталы)",
+        "Difficulty": "4",
+        "Topics": "Графика, математика, алгоритмы"
+    },
+    {
+        "Name": "Sorting Algorithms (visualization)",
+        "Description": "Алгоритмы сортировки (визуализация)",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графика, визуализация"
+    },
+    {
+        "Name": "Custom Markup -> HTML Converter",
+        "Description": "Конвертер пользовательской разметки в HTML",
+        "Difficulty": "3",
+        "Topics": "Обработка текста, парсинг, генерация HTML"
+    },
+    {
+        "Name": "N Queens Problem",
+        "Description": "Задача о расстановке N ферзей",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, математика, рекурсия"
+    },
+    {
+        "Name": "Flow in a Network (Ford-Fulkerson Algorithm)",
+        "Description": "Поток в сети (алгоритм Форда-Фалкерсона)",
+        "Difficulty": "5",
+        "Topics": "Алгоритмы, графы, математика"
+    },
+    {
+        "Name": "Credential Validator (phone, email, etc.)",
+        "Description": "Валидатор учетных данных (телефон, электронная почта и т. д.)",
+        "Difficulty": "2",
+        "Topics": "Обработка текста, регулярные выражения"
+    },
+    {
+        "Name": "Linked List (single, double)",
+        "Description": "Связанный список (одно-, двунаправленный)",
+        "Difficulty": "2",
+        "Topics": "Структуры данных, алгоритмы"
+    },
+    {
+        "Name": "Mastermind",
+        "Description": "Мастермайнд",
+        "Difficulty": "3",
+        "Topics": "Логика, алгоритмы, пользовательский интерфейс"
+    },
+    {
+        "Name": "Random Image Generator (parametric)",
+        "Description": "Генератор случайных изображений (параметрический)",
+        "Difficulty": "3",
+        "Topics": "Графика, алгоритмы, генерация изображений"
+    },
+    {
+        "Name": "Ulam Spiral",
+        "Description": "Спираль Улама",
+        "Difficulty": "3",
+        "Topics": "Графика, математика, алгоритмы"
+    },
+    {
+        "Name": "Klingon Translator",
+        "Description": "Переводчик на клингонский",
+        "Difficulty": "3",
+        "Topics": "Лингвистика, обработка текста, перевод"
+    },
+    {
+        "Name": "Prime Number Generator using a Sieve",
+        "Description": "Генератор простых чисел с использованием решета",
+        "Difficulty": "2",
+        "Topics": "Математика, алгоритмы"
+    },
+    {
+        "Name": "Markov Chains (random text generator)",
+        "Description": "Цепи Маркова (генератор случайного текста)",
+        "Difficulty": "4",
+        "Topics": "Обработка текста, статистика, вероятность"
+    },
+    {
+        "Name": "Graphical Analog Clock",
+        "Description": "Графические аналоговые часы",
+        "Difficulty": "3",
+        "Topics": "Графика, пользовательский интерфейс"
+    },
+    {
+        "Name": "Two Languages Communication with Each Other (C++ & Java, Lisp & Python, ...)",
+        "Description": "Взаимодействие между двумя языками программирования (C++ и Java, Lisp и Python, ...)",
+        "Difficulty": "4",
+        "Topics": "Межпроцессное взаимодействие, сокеты, IPC"
+    },
+    {
+        "Name": "Triangle Number Calculator",
+        "Description": "Калькулятор треугольных чисел",
+        "Difficulty": "1",
+        "Topics": "Математика, алгоритмы"
+    },
+    {
+        "Name": "Typing Speed Calculator",
+        "Description": "Калькулятор скорости печати",
+        "Difficulty": "2",
+        "Topics": "Обработка текста, пользовательский интерфейс, анализ данных"
+    },
+    {
+        "Name": "Name Art in ASCII",
+        "Description": "Искусство имени в ASCII",
+        "Difficulty": "2",
+        "Topics": "Графика, обработка текста, пользовательский интерфейс"
+    },
+    {
+        "Name": "Towers of Hanoi (more disks, more poles)",
+        "Description": "Ханойская башня (больше дисков, больше стержней)",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, рекурсия, логика"
+    },
+    {
+        "Name": "Quine",
+        "Description": "Квайн",
+        "Difficulty": "3",
+        "Topics": "Метапрограммирование, самовоспроизведение, алгоритмы"
+    },
+    {
+        "Name": "IRC Bot",
+        "Description": "IRC-бот",
+        "Difficulty": "3",
+        "Topics": "Сети, обработка текста, программирование ботов"
+    },
+    {
+        "Name": "Brainfuck Interpreter",
+        "Description": "Интерпретатор Brainfuck",
+        "Difficulty": "3",
+        "Topics": "Интерпретаторы, эзотерические языки, алгоритмы"
+    },
+    {
+        "Name": "Knight's Tour",
+        "Description": "Прогулка конем",
+        "Difficulty": "4",
+        "Topics": "Алгоритмы, графы, логика"
+    },
+    {
+        "Name": "Chip-8 Emulator",
+        "Description": "Эмулятор Chip-8",
+        "Difficulty": "5",
+        "Topics": "Эмуляция, системное программирование, алгоритмы"
+    },
+    {
+        "Name": "Geekcode Generator (3.12)",
+        "Description": "Генератор Geekcode (версия 3.12)",
+        "Difficulty": "2",
+        "Topics": "Обработка текста, кодирование, пользовательский интерфейс"
+    },
+    {
+        "Name": "Define, Translate & Rotate a Polygon ( [ ] other affine transformations)",
+        "Description": "Определение, перенос и вращение полигона (и другие аффинные преобразования)",
+        "Difficulty": "3",
+        "Topics": "Графика, математика, алгоритмы"
+    },
+    {
+        "Name": "Pong with Variable Vectors",
+        "Description": "Понг с изменяемыми векторами",
+        "Difficulty": "3",
+        "Topics": "Графика, физика, игровые механики"
+    },
+    {
+        "Name": "Battleships with AI",
+        "Description": "Морской бой с искусственным интеллектом",
+        "Difficulty": "4",
+        "Topics": "Игры, алгоритмы, искусственный интеллект"
+    },
+    {
+        "Name": "Simple Paint Program",
+        "Description": "Простая программа для рисования",
+        "Difficulty": "3",
+        "Topics": "Графика, пользовательский интерфейс, обработка изображений"
+    },
+    {
+        "Name": "TCP Chat Basic Encryption",
+        "Description": "TCP-чат с базовым шифрованием",
+        "Difficulty": "4",
+        "Topics": "Сети, криптография, алгоритмы"
+    },
+    {
+        "Name": "Incremental Economy Simulator (a la Time of Exploration)",
+        "Description": "Инкрементальный экономический симулятор (на подобии Time of Exploration)",
+        "Difficulty": "4",
+        "Topics": "Игры, экономика, алгоритмы"
+    },
+    {
+        "Name": "Encrypting Data in Images (Steganography)",
+        "Description": "Шифрование данных в изображениях (стеганография)",
+        "Difficulty": "4",
+        "Topics": "Криптография, обработка изображений, алгоритмы"
+    },
+    {
+        "Name": "Pascal's Triangle",
+        "Description": "Треугольник Паскаля",
+        "Difficulty": "2",
+        "Topics": "Математика, алгоритмы, комбинаторика"
+    },
+    {
+        "Name": "Sine Wave Generator from Pseudorandom Numbers",
+        "Description": "Генератор синусоидального сигнала из псевдослучайных чисел",
+        "Difficulty": "3",
+        "Topics": "Сигналы, генерация случайных чисел, алгоритмы"
+    },
+    {
+        "Name": "Flappy Bird",
+        "Description": "Flappy Bird",
+        "Difficulty": "3",
+        "Topics": "Игры, графика, физика"
+    },
+    {
+        "Name": "Fourier Transform (fast or 'slow'; [ ] visualization)",
+        "Description": "Преобразование Фурье (быстрое или 'медленное'; [ ] визуализация)",
+        "Difficulty": "4",
+        "Topics": "Сигналы, алгоритмы, визуализация"
+    },
+    {
+        "Name": "Method Ringing Simulator",
+        "Description": "Симулятор метода звона",
+        "Difficulty": "3",
+        "Topics": "Алгоритмы, симуляция, звук"
+    },
+    {
+        "Name": "Binary Search (n-ary)",
+        "Description": "Бинарный поиск (n-арный)",
+        "Difficulty": "2",
+        "Topics": "Алгоритмы, поиск, оптимизация"
+    },
+    {
+        "Name": "Nintendo Oil Panic",
+        "Description": "Nintendo Oil Panic",
+        "Difficulty": "3",
+        "Topics": "Игры, эмуляция, графика"
+    },
+    {
+        "Name": "Sierpinski Triangle",
+        "Description": "Треугольник Серпинского",
+        "Difficulty": "2",
+        "Topics": "Фракталы, графика, алгоритмы"
+    },
+    {
+        "Name": "Dot & Cross Product of Two Vectors (Exterior Product)",
+        "Description": "Скалярное и векторное произведение двух векторов",
+        "Difficulty": "2",
+        "Topics": "Математика, линейная алгебра, векторы"
+    },
+    {
+        "Name": "Little Man Computer Simulation",
+        "Description": "Симуляция \"Little Man Computer\"",
+        "Difficulty": "3",
+        "Topics": "Симуляция, компьютерная архитектура, программирование"
+    },
+    {
+        "Name": "Lisp Interpreter",
+        "Description": "Интерпретатор Lisp",
+        "Difficulty": "4",
+        "Topics": "Языки программирования, интерпретаторы, компиляторы"
+    },
+    {
+        "Name": "Enigma Simulator with a Configuration File",
+        "Description": "Симулятор шифровальной машины \"Энигма\" с файлом конфигурации",
+        "Difficulty": "4",
+        "Topics": "Криптография, симуляция, алгоритмы"
+    },
+    {
+        "Name": "Гонка на космических кораблях",
+        "Description": "Space Race Game",
+        "Difficulty": "3",
+        "Topics": "Игры, графика, физика"
+    },
+    {
+        "Name": "Многопользовательский Tower Defense (на 2-8 человек)",
+        "Description": "Multiplayer Tower Defense Game (2-8 players)",
+        "Difficulty": "4",
+        "Topics": "Игры, графика, физика"
+    },
+    {
+        "Name": "Оповещатель о выходе новых серий",
+        "Description": "New Episode Notifier",
+        "Difficulty": "3",
+        "Topics": "Веб-скрапинг, API, оповещения"
+    },
+    {
+        "Name": "Разработка статистики по проекту",
+        "Description": "Project Statistics Tool",
+        "Difficulty": "3",
+        "Topics": "Анализ кода, статистика, метрики"
+    },
+    {
+        "Name": "Создание сетевой игры \"Гумоку\"",
+        "Description": "Online Gomoku Game",
+        "Difficulty": "4",
+        "Topics": "Игры, сетевое программирование, алгоритмы"
+    },
+    {
+        "Name": "Разработка калькулятора калорий",
+        "Description": "Calorie Calculator with Meal Builder",
+        "Difficulty": "3",
+        "Topics": "Приложение, калькулятор, питание"
+    },
+    {
+        "Name": "Создание компонента для кровавого єнтерпрайза",
+        "Description": "Multi-panel Screen Component",
+        "Difficulty": "3",
+        "Topics": "GUI, компоненты, разработка"
+    },
+    {
+        "Name": "Создание телеграм-бота, похожего на Jira",
+        "Description": "Jira-like Telegram Bot",
+        "Difficulty": "4",
+        "Topics": "Телеграм-боты, менеджмент, интеграция"
+    },
+    {
+        "Name": "Создание армии ботов с голосовым управлением и PvP",
+        "Description": "Voice-controlled Bot Army with PvP",
+        "Difficulty": "5",
+        "Topics": "ИИ, голосовое управление, игры"
+    },
+    {
+        "Name": "Разработка сниффера для обнаружения DCRat",
+        "Description": "DCRat Detection Sniffer",
+        "Difficulty": "4",
+        "Topics": "Сетевое программирование, безопасность, снифферы"
+    },
+    {
+        "Name": "Создание простого сервера для игры Minecraft",
+        "Description": "Simple Minecraft Server with Anti-bot System",
+        "Difficulty": "4",
+        "Topics": "Игровые серверы, C#, безопасность"
+    }
+]
