@@ -72,6 +72,16 @@
         height: 100%;
       }
     </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"
+    ></script>
+    <script
+      async
+      src="https://api.countapi.xyz/hit/cleannetcode-Pet-Project-Ideas/visits?callback=cb"
+    ></script>
   </head>
   <body>
     <div>
@@ -127,25 +137,13 @@
           $(".collapsed").slideToggle("slow");
         });
       });
-
+    </script>
+    <script>
       function cb(response) {
         var viewCount =
           response.value + ` <i class="fa fa-eye" aria-hidden="true"></i>`;
         document.getElementById("visits").innerHTML = viewCount;
       }
     </script>
-
-    <!-- Include jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"
-    ></script>
-
-    <script></script>
-    <script
-      async
-      src="https://api.countapi.xyz/hit/cleannetcode-Pet-Project-Ideas/visits?callback=cb"
-    ></script>
   </body>
 </html>
