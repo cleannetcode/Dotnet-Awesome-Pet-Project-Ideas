@@ -852,12 +852,6 @@
         "Topics": "Графика, игровые механики, алгоритмы"
     },
     {
-        "Name": "LISP Interpreter",
-        "Description": "Интерпретатор LISP",
-        "Difficulty": "7",
-        "Topics": "Языки программирования, интерпретация, компиляция, дизайн языков"
-    },
-    {
         "Name": "Nonogram Generator and Solver",
         "Description": "Генератор и решатель головоломки \"Нонограмма\"",
         "Difficulty": "5",
@@ -1044,12 +1038,6 @@
         "Topics": "Веб-разработка, наставничество, сетевое взаимодействие, финансирование"
     },
     {
-        "Name": "Eulerian Path",
-        "Description": "Нахождение Эйлерова пути в графе",
-        "Difficulty": "4",
-        "Topics": "Алгоритмы, графы, теория графов"
-    },
-    {
         "Name": "Simple File Explorer",
         "Description": "Простой файловый менеджер",
         "Difficulty": "3",
@@ -1060,18 +1048,6 @@
         "Description": "Подсчет слов, предложений и абзацев в тексте",
         "Difficulty": "2",
         "Topics": "Строковые операции, регулярные выражения"
-    },
-    {
-        "Name": "Minesweeper",
-        "Description": "Клон игры \"Сапер\"",
-        "Difficulty": "3",
-        "Topics": "Программирование пользовательского интерфейса, игровая логика"
-    },
-    {
-        "Name": "Connect Four",
-        "Description": "Игра \"Четыре в ряд\"",
-        "Difficulty": "3",
-        "Topics": "Программирование пользовательского интерфейса, игровая логика"
     },
     {
         "Name": "BMI Calculator",
@@ -1096,12 +1072,6 @@
         "Description": "Генератор и решатель лабиринтов",
         "Difficulty": "4",
         "Topics": "Алгоритмы, графы, генерация контента"
-    },
-    {
-        "Name": "Radix (Base) Converter",
-        "Description": "Конвертер чисел между различными системами счисления",
-        "Difficulty": "2",
-        "Topics": "Математика, системы счисления"
     },
     {
         "Name": "Picross Solver",
@@ -1200,18 +1170,6 @@
         "Topics": "Программирование пользовательского интерфейса, работа с изображениями"
     },
     {
-        "Name": "ASCII Digital Clock",
-        "Description": "Часы в формате ASCII",
-        "Difficulty": "2",
-        "Topics": "Обработка текста, отображение времени"
-    },
-    {
-        "Name": "Dijkstra's Algorithm",
-        "Description": "Реализация алгоритма Дейкстры",
-        "Difficulty": "4",
-        "Topics": "Алгоритмы, графы, структуры данных"
-    },
-    {
         "Name": "Text/Morse Code Translator (+sound)",
         "Description": "Переводчик текста/Морзе с поддержкой звука",
         "Difficulty": "3",
@@ -1278,12 +1236,6 @@
         "Topics": "Сетевое программирование, парсинг XML, пользовательский интерфейс"
     },
     {
-        "Name": "RPN Calculator",
-        "Description": "Обратно-польский калькулятор",
-        "Difficulty": "3",
-        "Topics": "Математические функции, структуры данных, пользовательский интерфейс"
-    },
-    {
         "Name": "Mandelbrot Set (other fractals)",
         "Description": "Множество Мандельброта (другие фракталы)",
         "Difficulty": "4",
@@ -1324,12 +1276,6 @@
         "Description": "Связанный список (одно-, двунаправленный)",
         "Difficulty": "2",
         "Topics": "Структуры данных, алгоритмы"
-    },
-    {
-        "Name": "Mastermind",
-        "Description": "Мастермайнд",
-        "Difficulty": "3",
-        "Topics": "Логика, алгоритмы, пользовательский интерфейс"
     },
     {
         "Name": "Random Image Generator (parametric)",
@@ -1414,18 +1360,6 @@
         "Description": "Интерпретатор Brainfuck",
         "Difficulty": "3",
         "Topics": "Интерпретаторы, эзотерические языки, алгоритмы"
-    },
-    {
-        "Name": "Knight's Tour",
-        "Description": "Прогулка конем",
-        "Difficulty": "4",
-        "Topics": "Алгоритмы, графы, логика"
-    },
-    {
-        "Name": "Chip-8 Emulator",
-        "Description": "Эмулятор Chip-8",
-        "Difficulty": "5",
-        "Topics": "Эмуляция, системное программирование, алгоритмы"
     },
     {
         "Name": "Geekcode Generator (3.12)",
@@ -1516,12 +1450,6 @@
         "Description": "Nintendo Oil Panic",
         "Difficulty": "3",
         "Topics": "Игры, эмуляция, графика"
-    },
-    {
-        "Name": "Sierpinski Triangle",
-        "Description": "Треугольник Серпинского",
-        "Difficulty": "2",
-        "Topics": "Фракталы, графика, алгоритмы"
     },
     {
         "Name": "Dot & Cross Product of Two Vectors (Exterior Product)",
