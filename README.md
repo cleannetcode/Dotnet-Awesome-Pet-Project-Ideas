@@ -1,5 +1,5 @@
 # Dotnet-Awesome-Pet-Project-Ideas
-[![pages-build-deployment](https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas/actions/workflows/pages/pages-build-deployment)  
 Welcome to the Cleannetcode community awesome pet project ideas.
 
 Ссылка на github pages: https://cleannetcode.github.io/Dotnet-Awesome-Pet-Project-Ideas
