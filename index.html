@@ -1,21 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pet project ideas</title>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css"
-    />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" />
 
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
-    />
+    <link rel="stylesheet" type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />
 
     <style>
       body {
@@ -26,16 +20,17 @@
         margin: 0px;
         padding: 10px 250px;
       }
+
       .google-form-container {
         display: flex;
         align-items: center;
         flex-direction: column;
         margin-top: 50px;
-
         position: relative;
         overflow: hidden;
         width: 100%;
-        padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+        padding-top: 56.25%;
+        /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
       }
 
       .collapsed {
@@ -68,6 +63,7 @@
       }
 
       /* Then style the iframe to fit in the container div with full height and width */
+
       .responsive-iframe {
         position: absolute;
         top: 0;
@@ -83,18 +79,17 @@
         text-decoration: none;
         color: black;
       }
+
+      .ready {
+        background-color: #baffca;
+      }
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"
-    ></script>
-    <script
-      async
-      src="https://api.countapi.xyz/hit/cleannetcode-Pet-Project-Ideas?callback=cb"
-    ></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script async src="https://api.countapi.xyz/hit/cleannetcode-Pet-Project-Ideas?callback=cb"></script>
   </head>
+
   <body>
     <main>
       <div>
@@ -117,25 +112,15 @@
       <button class="collapsible">Show/Hide Google Form</button>
       <div class="collapsed">
         <div class="google-form-container">
-          <iframe
-            class="responsive-iframe"
+          <iframe class="responsive-iframe"
             src="https://docs.google.com/forms/d/e/1FAIpQLSda6xiWsTmsEf_5Hl1JV1l_uLawv_Ga1lYoTcreSzGxknMTOg/viewform?embedded=true"
-            frameborder="0"
-            marginheight="0"
-            marginwidth="0"
-            width="640"
-            height="1075"
-            >Loading…</iframe
-          >
+            frameborder="0" marginheight="0" marginwidth="0" width="640" height="1075">Loading…</iframe>
         </div>
       </div>
     </main>
     <footer>
       <div style="margin-top: 50px">
-        <a
-          href="https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas"
-          class="social-icon"
-        >
+        <a href="https://github.com/cleannetcode/Dotnet-Awesome-Pet-Project-Ideas" class="social-icon">
           <i class="fa-brands fa-github social-icon"></i>
         </a>
         <a href="https://t.me/cleannetcode" class="social-icon">
@@ -152,12 +137,15 @@
         $.getJSON("projects.json", function (jsonData) {
           var table = $("#projects").DataTable({
             data: jsonData,
-            columns: [
-              { data: "Name" },
-              { data: "Description" },
-              { data: "Difficulty" },
-              { data: "Topics" },
-            ],
+            columns: [{
+              data: "Name"
+            }, {
+              data: "Description"
+            }, {
+              data: "Difficulty"
+            }, {
+              data: "Topics"
+            }],
           });
         });
 
@@ -176,4 +164,5 @@
       }
     </script>
   </body>
+
 </html>
