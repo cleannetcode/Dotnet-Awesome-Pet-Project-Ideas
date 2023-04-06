@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.exe
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.deps.json
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.runtimeconfig.json
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.dll
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\ref\BMICalculator.dll
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.pdb
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.AssemblyInfo.cs
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.dll
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\ref\BMICalculator.dll
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.pdb
+C:\Users\User\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.genruntimeconfig.cache
