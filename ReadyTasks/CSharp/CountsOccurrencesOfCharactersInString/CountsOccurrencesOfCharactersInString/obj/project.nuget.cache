@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sCXcm0B5dwGsPbDyikOANnwzhVyMuLV9EJHdqeavEbenP+GSgaFmC4fE7MR9W+9Yhs4SaYhqiJEAhfvUBjH3Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Dotnet-Awesome-Pet-Project-Ideas\\ReadyTasks\\CSharp\\CountsOccurrencesOfCharactersInString\\CountsOccurrencesOfCharactersInString\\CountsOccurrencesOfCharactersInString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

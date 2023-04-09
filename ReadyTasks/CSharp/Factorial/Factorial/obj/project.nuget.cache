@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tK+5aWxro/FWRxhxortVVf/1/egGTrg+WBawuWJxdKuFutgY3ORpMUUKhv9chZhr680eady+dIjS17jLdODGUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Dotnet-Awesome-Pet-Project-Ideas\\ReadyTasks\\CSharp\\Factorial\\Factorial\\Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

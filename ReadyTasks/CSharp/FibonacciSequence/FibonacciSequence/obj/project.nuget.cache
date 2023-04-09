@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lngHr7aZ8k27rDqpTotm98GpkANNdcLU/TolKQk15/Htg9L+M+txAVUTeO4TAhCdANrONhOTwMDR0PlV5W8/tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Dotnet-Awesome-Pet-Project-Ideas\\ReadyTasks\\CSharp\\FibonacciSequence\\FibonacciSequence\\FibonacciSequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

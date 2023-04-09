@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zV7ErJ/9QuNbaMNPAe6JeTEGpB/63Axboywh4iQjqL4fcc7fgTfZaSJIQqKIVik064m4h3d49pe8s+4DNVIfUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Dotnet-Awesome-Pet-Project-Ideas\\ReadyTasks\\FSharp\\CountsOccurrencesOfCharactersInString\\CountsOccurrencesOfCharactersInString\\CountsOccurrencesOfCharactersInString.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

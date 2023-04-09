@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.exe
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\refint\Factorial.dll
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.pdb
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Dotnet-Awesome-Pet-Project-Ideas\ReadyTasks\CSharp\Factorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll
