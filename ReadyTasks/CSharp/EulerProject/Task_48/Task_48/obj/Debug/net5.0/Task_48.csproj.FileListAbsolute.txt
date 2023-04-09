@@ -1,0 +1,16 @@
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.exe
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.deps.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.runtimeconfig.dev.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\ref\Task_48.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\bin\Debug\net5.0\Task_48.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\ref\Task_48.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_48\Task_48\obj\Debug\net5.0\Task_48.genruntimeconfig.cache

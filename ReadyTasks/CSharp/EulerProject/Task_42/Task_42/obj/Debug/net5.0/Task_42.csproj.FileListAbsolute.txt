@@ -1,0 +1,15 @@
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.exe
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.deps.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.runtimeconfig.dev.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\ref\Task_42.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\bin\Debug\net5.0\Task_42.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\ref\Task_42.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_42\Task_42\obj\Debug\net5.0\Task_42.genruntimeconfig.cache

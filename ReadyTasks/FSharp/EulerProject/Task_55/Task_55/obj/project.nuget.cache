@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXs4ZXlf5DPPh29AGxtyQLd2r8GlxC1aYi3kAu8t1EfSdxz+iJ9rHWn/L9XNyj+NFSb6vPY/jMJfPvXTA+ofyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\OneDrive\\Рабочий стол\\Codes\\ProjectEuler\\FSharp\\Task_55\\Task_55\\Task_55.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.exe
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.deps.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.runtimeconfig.dev.json
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\ref\Task_11.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\bin\Debug\net5.0\Task_11.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\ref\Task_11.dll
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.pdb
+C:\Users\Daniel\OneDrive\Рабочий стол\Codes\ProjectEuler\CSharp\Task_11\Task_11\obj\Debug\net5.0\Task_11.genruntimeconfig.cache
