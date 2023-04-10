@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/mSer4wQV4lKFWbGrXdZ5vepzqR/TVmlso35qNAUen5up/8xPLhDqRissYZzEvOv6L0Ez+WtixGh3JT1wQlRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Dotnet-Awesome-Pet-Project-Ideas\\ReadyTasks\\FSharp\\Rot13\\Rot13\\Rot13.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
