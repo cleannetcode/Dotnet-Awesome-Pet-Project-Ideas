@@ -1,4 +1,5 @@
-[{
+[
+    {
         "Name": "Реализация игрового движка",
         "Description": "Создание основы для разработки компьютерных игр",
         "Difficulty": "8",
@@ -92,8 +93,7 @@
         "Name": "Fizzbuzz",
         "Description": "Вывод чисел от 1 до N с заменой кратных 3 на \"Fizz\", кратных 5 на \"Buzz\" и кратных 15 на \"FizzBuzz\"",
         "Difficulty": "0",
-        "Topics": "Основы программирования, циклы, условные операторы",
-        "Ready": "Готово"
+        "Topics": "Основы программирования, циклы, условные операторы"
     },
     {
         "Name": "RPN Calculator",
@@ -1393,25 +1393,25 @@
     },
     {
         "Name": "Pascal's Triangle",
-        1 "Description": "Треугольник Паскаля",
+        "Description": "Треугольник Паскаля",
         "Difficulty": "2",
         "Topics": "Математика, алгоритмы, комбинаторика"
     },
     {
         "Name": "Sine Wave Generator from Pseudorandom Numbers",
-        1 "Description": "Генератор синусоидального сигнала из псевдослучайных чисел",
+        "Description": "Генератор синусоидального сигнала из псевдослучайных чисел",
         "Difficulty": "3",
         "Topics": "Сигналы, генерация случайных чисел, алгоритмы"
     },
     {
         "Name": "Flappy Bird",
-        1 "Description": "Flappy Bird",
+        "Description": "Flappy Bird",
         "Difficulty": "3",
         "Topics": "Игры, графика, физика"
     },
     {
         "Name": "Fourier Transform (fast or 'slow'; [ ] visualization)",
-        1 "Description": "Преобразование Фурье (быстрое или 'медленное'; [ ] визуализация)",
+        "Description": "Преобразование Фурье (быстрое или 'медленное'; [ ] визуализация)",
         "Difficulty": "4",
         "Topics": "Сигналы, алгоритмы, визуализация"
     },
