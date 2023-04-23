@@ -1230,7 +1230,7 @@
         "Topics": "Графика, математика, алгоритмы"
     },
     {
-        "Name": "Sorting Algorithms (visualization)",``
+        "Name": "Sorting Algorithms (visualization)",
         "Description": "Алгоритмы сортировки (визуализация)",
         "Difficulty": "4",
         "Topics": "Алгоритмы, графика, визуализация"
@@ -1392,26 +1392,26 @@
         "Topics": "Криптография, обработка изображений, алгоритмы"
     },
     {
-        "Name": "Pascal's Triangle", 1
-        "Description": "Треугольник Паскаля",
+        "Name": "Pascal's Triangle",
+        1 "Description": "Треугольник Паскаля",
         "Difficulty": "2",
         "Topics": "Математика, алгоритмы, комбинаторика"
     },
     {
-        "Name": "Sine Wave Generator from Pseudorandom Numbers", 1
-        "Description": "Генератор синусоидального сигнала из псевдослучайных чисел",
+        "Name": "Sine Wave Generator from Pseudorandom Numbers",
+        1 "Description": "Генератор синусоидального сигнала из псевдослучайных чисел",
         "Difficulty": "3",
         "Topics": "Сигналы, генерация случайных чисел, алгоритмы"
     },
-    { 
-        "Name": "Flappy Bird", 1
-        "Description": "Flappy Bird",
+    {
+        "Name": "Flappy Bird",
+        1 "Description": "Flappy Bird",
         "Difficulty": "3",
         "Topics": "Игры, графика, физика"
     },
     {
-        "Name": "Fourier Transform (fast or 'slow'; [ ] visualization)", 1
-        "Description": "Преобразование Фурье (быстрое или 'медленное'; [ ] визуализация)",
+        "Name": "Fourier Transform (fast or 'slow'; [ ] visualization)",
+        1 "Description": "Преобразование Фурье (быстрое или 'медленное'; [ ] визуализация)",
         "Difficulty": "4",
         "Topics": "Сигналы, алгоритмы, визуализация"
     },
