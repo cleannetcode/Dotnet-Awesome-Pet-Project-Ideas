@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace LinkedList
+namespace LinkedListNamespace
 {
     public class LinkedList<T>: ICollection<T>
     {
@@ -46,8 +46,8 @@ namespace LinkedList
         private LinkedListNode<T> _head;
         private LinkedListNode<T> _tail;
 
-        public LinkedListNode<T> Head { get => new LinkedListNode<T>(this._head); }
-        public LinkedListNode<T> Tail { get => new LinkedListNode<T>(this._tail); }
+        public LinkedListNode<T> Head { get => this._head == null ? this._head: new LinkedListNode<T>(this._head); }
+        public LinkedListNode<T> Tail { get => this._tail == null ? this._tail : new LinkedListNode<T>(this._tail); }
 
         public int Count => this._capacity;
 
@@ -70,8 +70,10 @@ namespace LinkedList
             }
             else
             {
-                this._tail.Next = new LinkedListNode<T>(val);
-                this._tail = this._tail.Next;
+                var node = new LinkedListNode<T>(val);
+                node.Prev = this.Tail;
+                this._tail.Next = node;
+                this._tail = node;
             }
         }
 
@@ -85,8 +87,10 @@ namespace LinkedList
             }
             else
             {
-                this._head.Prev = new LinkedListNode<T>(val);
-                this._head = this._head.Prev;
+                var node = new LinkedListNode<T>(val);
+                node.Next = this.Head;
+                this._head.Prev = node;
+                this._head = node;
             }
         }
 
@@ -186,6 +190,7 @@ namespace LinkedList
             }
             else
             {
+                this._capacity--;
                 var prev = node.Prev;
                 var next = node.Next;
                 prev.Next = next;
