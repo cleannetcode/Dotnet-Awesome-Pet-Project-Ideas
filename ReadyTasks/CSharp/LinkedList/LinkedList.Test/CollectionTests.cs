@@ -200,6 +200,35 @@ namespace LinkedList.Test
             Assert.Throws<ArgumentOutOfRangeException>(() => list.RemoveFromStart());
         }
 
+        [Theory]
+        [InlineData(1)]
+        [InlineData(2)]
+        [InlineData(3)]
+        [InlineData(4)]
+        [InlineData(5)]
+        [InlineData(10)]
+        public void RemoveHeadExceptionTestRandom(int maxVal)
+        {
+            //Arrange
+            var list = new LinkedList<int>();
+
+            //Act
+            for (int i = 1; i <= maxVal; i++)
+            {
+                list.Add(i);
+            }
+
+            //Assert
+            for (int i = 1; i <= maxVal; i++)
+            {
+                var node = list.RemoveFromEnd();
+                Assert.Equal(maxVal - i, list.Count);
+                Assert.Equal(maxVal - i + 1, node.Value);
+            }
+
+            Assert.Throws<ArgumentOutOfRangeException>(() => list.RemoveFromStart());
+        }
+
         [Fact]
         public void RemoveTailTest()
         {
@@ -231,6 +260,33 @@ namespace LinkedList.Test
             //Arrange
             var list = new LinkedList<int>();
             int maxVal = 10;
+
+            //Act
+            for (int i = 1; i <= maxVal; i++)
+            {
+                list.Add(i);
+            }
+
+            //Assert
+            for (int i = 1; i <= maxVal; i++)
+            {
+                var node = list.RemoveFromEnd();
+                Assert.Equal(maxVal - i, list.Count);
+                Assert.Equal(maxVal - i + 1, node.Value);
+            }
+        }
+
+        [Theory]
+        [InlineData(1)]
+        [InlineData(2)]
+        [InlineData(3)]
+        [InlineData(4)]
+        [InlineData(5)]
+        [InlineData(10)]
+        public void RemoveMultipleTailTestRandom(int maxVal)
+        {
+            //Arrange
+            var list = new LinkedList<int>();
 
             //Act
             for (int i = 1; i <= maxVal; i++)
@@ -281,6 +337,45 @@ namespace LinkedList.Test
             int maxVal = 10;
 
             //Act
+            for (int i = 1; i <= maxVal; i++)
+            {
+                list.Add(i);
+            }
+
+            list.Clear();
+
+            //Assert
+            Assert.Equal(0, list.Count);
+            Assert.Null(list.Head);
+            Assert.Null(list.Tail);
+        }
+
+        [Theory]
+        [InlineData(0)]
+        [InlineData(1)]
+        [InlineData(2)]
+        [InlineData(5)]
+        [InlineData(10)]
+        public void ClearTestRandom(int maxVal)
+        {
+            //Arrange
+            var list = new LinkedList<int>();
+
+            //Act
+            for (int i = 1; i <= maxVal; i++)
+            {
+                list.Add(i);
+            }
+
+            list.Clear();
+
+            for (int i = 1; i <= maxVal; i++)
+            {
+                list.Add(i);
+            }
+
+            list.Clear();
+
             for (int i = 1; i <= maxVal; i++)
             {
                 list.Add(i);
